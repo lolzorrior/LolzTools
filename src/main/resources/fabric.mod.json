@@ -7,7 +7,7 @@
   "authors": [],
   "contact": {},
   "license": "BSD-3-Clause",
-  "icon": "assets/lolz_tools/icon.png",
+  "icon": "assets/lolz_tools/LolzTools.png",
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
