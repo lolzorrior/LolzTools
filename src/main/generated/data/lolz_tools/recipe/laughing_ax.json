@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "lolz_tools",
+  "key": {
+    "g": "minecraft:gunpowder",
+    "s": "minecraft:stick"
+  },
+  "pattern": [
+    "gg",
+    "gs",
+    " s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lolz_tools:laughing_ax"
+  }
+}
